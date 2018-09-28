@@ -1,0 +1,17 @@
+{
+  "name": "koa-yourself",
+  "version": "1.0.0",
+  "description": "自己实现简单的koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "心系",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
