@@ -1,2 +1,2 @@
 # koa-yourself
-自己动手实习一个koa
+自己动手实现一个简单版的koa
